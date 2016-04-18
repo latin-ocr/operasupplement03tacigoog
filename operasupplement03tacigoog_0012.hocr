@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operasupplement03tacigoog_0012.png"; bbox 0 0 2236 3892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 109 969 1060 1470">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 109 819 1060 1470">
+     <span class='ocr_line' id='line_1_1' title="bbox 109 969 1060 1121; baseline 0.014 -14"><span class='ocrx_word' id='word_1_1' title='bbox 109 969 1060 1121; x_wconf 32' lang='lat' dir='ltr'>GCORNELIIJ.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 199 1261 842 1470; baseline -0.008 -38"><span class='ocrx_word' id='word_1_2' title='bbox 199 1261 842 1470; x_wconf 69' lang='lat' dir='ltr'><em>TACJTJ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 252 1533 1031 1708">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 189 1510 1031 1755">
+     <span class='ocr_line' id='line_1_3' title="bbox 252 1533 1031 1708; baseline 0.01 -17.401"><span class='ocrx_word' id='word_1_3' title='bbox 252 1585 794 1708; x_wconf 60' lang='lat' dir='ltr'><em>Pomffum,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1026 1533 1031 1542; x_wconf 60' lang='grc'><em>“</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 149 1819 1064 2022">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 149 1793 1064 2022">
+     <span class='ocr_line' id='line_1_4' title="bbox 149 1819 1064 2022; baseline -0.002 -32"><span class='ocrx_word' id='word_1_5' title='bbox 149 1819 894 2022; x_wconf 54' lang='lat' dir='ltr'><em>ETJNDJCE&amp;</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1062 1833 1064 1844; x_wconf 77' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1122 3892">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1122 3892">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1122 3892; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1122 3892; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
